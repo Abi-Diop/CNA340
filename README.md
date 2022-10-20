@@ -15,9 +15,12 @@ The commands below will:
 Uses a for loop to print all of the words in the list ‘words’ that start with “c”, 
 and adds 1 to c_counter. Change the program so that it uses a while loop to complete the same task.
 
-Here is my code the Input:
 
-##My Assignment
+```
+
+## Running
+Once installed you can run the program with the following command this will be:
+
 words = ["aardvark","cookies","asterisk","cowabunga","gryphon","angular","cringe"]
 i = 0
 c_counter = 0
@@ -26,11 +29,7 @@ while i < len(words):
         print(words[i])
         c_counter = c_counter + 1
     i += 1
-
-```
-
-## Running
-Once installed you can run the program with the following command this will be my output:
+#Output:
 
 cookies
 cowabunga
