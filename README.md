@@ -16,8 +16,8 @@ Uses a for loop to print all of the words in the list ‘words’ that start wit
 and adds 1 to c_counter. Change the program so that it uses a while loop to complete the same task.
 
 Here is my code the Input:
-#My Assignment
 
+##My Assignment
 words = ["aardvark","cookies","asterisk","cowabunga","gryphon","angular","cringe"]
 i = 0
 c_counter = 0
